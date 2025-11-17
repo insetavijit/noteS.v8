@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "1468dd5d5a7335ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e5c946128989e3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "596921ffc59444a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Php Syllabus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Php Syllabus"
+            }
+          },
+          {
+            "id": "1dfa7627e60b6d62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML SYllabus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTML SYllabus"
+            }
+          },
+          {
+            "id": "de287e78437d3a2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSS"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11b9471110cbae59",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ce585c83082a0d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30a08acf2bfb1c2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#performance",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "608ecaa34f132f4c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 469,
+    "collapsed": true
+  },
+  "right": {
+    "id": "0efa509afebf1cbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "84410a0f37432b52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dac4826668caba8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ee3a721649da54c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WordPress - theme dev - start.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for WordPress - theme dev - start"
+            }
+          },
+          {
+            "id": "b5f9b7d7ce5d0ca3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2ae2b15123638919",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "30c15fe90dc77761",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1e4dbb642b6a573c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 546
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "de287e78437d3a2c",
+  "lastOpenFiles": [
+    "HTML SYllabus.md",
+    "CSS.md",
+    "Php Syllabus.md",
+    "Wordpress - handbook/body_class.md",
+    "Wordpress - handbook/get_stylesheet_uri().md",
+    "Php Handbook/Variable declaration and naming.md",
+    "Wordpress - handbook/is_front_page.md",
+    "Wordpress - handbook/wp_print_styles().md",
+    "Wordpress - handbook/bloginfo_charset.md",
+    "Php Handbook/zval.md",
+    "Php Handbook",
+    "Php Handbook/Alternative syntax.md",
+    "Php Handbook/Statement termination.md",
+    "Php Handbook/Output statements.md",
+    "Php Handbook/Comments and documentation.md",
+    "WordPress - theme dev - start.md",
+    "Wordpress - handbook/wp_enqueue_style.md",
+    "Php Handbook/PHP tags and embedding.md",
+    "Php Handbook/Syntax rules and structure.md",
+    "Wordpress - handbook/wp_add_inline_style().md",
+    "Php Handbook/wp_head.md",
+    "Wordpress - handbook/wp_head().md",
+    "Wordpress - handbook/get_stylesheet_uri.md",
+    "Concepts",
+    "Wordpress - handbook",
+    "Php Handbook/WordPress Code Execution Flow.md",
+    "Php Handbook/WP Page HirerKey.md",
+    "Wordpress - handbook/the_custom_logo.md",
+    "Wordpress - handbook/esc_html_e.md"
+  ]
+}
